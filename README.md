@@ -7,7 +7,7 @@ This project is a simple word-guessing game built with Python's Tkinter library.
 ## Features
 *Random Word Selection*: The game picks a word randomly from a predefined list.
 
-*Scrambled Word Display*: The chosen word is displayed with its characters randomly shuffled.
+*Scrambled Word Display*: The chosen word is displayed with its characters randomly shuffled. 
 
 *Hints*: The player can request character-by-character hints for the chosen word.
 
